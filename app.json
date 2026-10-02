@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Bushel",
+    "slug": "bushel-expo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "assetBundlePatterns": [
+      "assets/*"
+    ]
+  }
+}
